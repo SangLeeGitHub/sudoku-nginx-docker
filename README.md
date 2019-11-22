@@ -7,7 +7,7 @@
 `docker build -t sudoku-ws:level-4 .`
 
 #### 3. Running the container
-`docer run -d -it -p 8080:8080 sudoku-ws:level-4`
+`docker run -d -it -p 8080:8080 sudoku-ws:level-4`
 
 #### 4. Run the app
 in CLI 
