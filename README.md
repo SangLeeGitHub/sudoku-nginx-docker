@@ -2,6 +2,7 @@
 
 #### 1. Cloning Git 
 `git clone https://github.com/hotdeveloper/sudoku-nginx-docker.git`
+`cd sudoku-nginx-docker`
 
 #### 2. Build Docker image
 `docker build -t sudoku-ws:level-4 .`
