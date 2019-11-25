@@ -13,7 +13,7 @@
 
 If you don't want to build the docker image with the Dockerfile,
 
-`docker run -d -it -p 8080:8080 pileup/sudoku-ws:level-4`.
+`docker run -d -it -p 8080:8080 pileup/sudoku-ws:level-4`
 
 It uses a docker image that I pushed to the Docker Hub.
 
