@@ -26,5 +26,7 @@ in Web browser
 
 `localhost:8080`
 
+If you use Docker for Windows, You have to use the container’s IP address instead of the localhost.
+
 #### 5. Dockerfile
 The Dockerfile contains comments that comprises the image.
