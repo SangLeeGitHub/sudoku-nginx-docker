@@ -27,4 +27,4 @@ in Web browser
 `localhost:8080`
 
 #### 5. Dockerfile
-The Dockerfile contains a description that comprises the image.
+The Dockerfile contains comments that comprises the image.
