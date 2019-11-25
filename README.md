@@ -11,6 +11,10 @@
 #### 3. Running the container
 `docker run -d -it -p 8080:8080 sudoku-ws:level-4`
 
+If you don't want to build the docker image with the Dockerfile,
+`docker run -d -it -p 8080:8080 pileup/sudoku-ws:level-4`.
+It uses a docker image that I pushed to the Docker Hub.
+
 #### 4. Run the app
 in CLI 
 
@@ -19,3 +23,6 @@ in CLI
 in Web browser
 
 `localhost:8080`
+
+#### 5. Dockerfile
+The Dockerfile contains a description that comprises the image.
